@@ -1,12 +1,8 @@
 # Prasunet_WD_02
 
-Sure! Here's a comprehensive README file for your GitHub repository:
-
----
 
 # Stopwatch Web Application
 
-![Stopwatch](https://your-image-link.com/stopwatch.png)
 
 ## Overview
 
@@ -20,7 +16,7 @@ This is a simple yet functional stopwatch web application built using HTML, CSS,
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://sachinchaunal.github.io/Prasunet_WD_02/).
 
 ## Getting Started
 
@@ -94,9 +90,7 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -105,7 +99,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or suggestions, please contact [your-email@example.com].
+For any inquiries or suggestions, please contact [sachinchaunal@gmail.com].
 
 ---
 

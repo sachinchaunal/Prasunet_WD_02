@@ -26,22 +26,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 You only need a web browser to run this application.
 
-### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/stopwatch-web-app.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd stopwatch-web-app
-    ```
-
-3. Open the `index.html` file in your preferred web browser:
-    ```bash
-    open index.html
-    ```
 
 ## Usage
 
@@ -101,6 +86,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any inquiries or suggestions, please contact [sachinchaunal@gmail.com].
 
----
 
-Feel free to customize the content, especially the placeholders (like image link, demo link, GitHub repository link, email address) to match your specific project details.

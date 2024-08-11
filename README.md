@@ -13,7 +13,7 @@ This is a simple yet functional stopwatch web application built using HTML, CSS,
 
 ## Demo
 
-Check out the live demo [here](https://sachinchaunal.github.io/Prasunet_WD_02/).
+Check out the live demo [here](https://sachinchaunal.github.io/Stopwatch_Web_Application/).
 
 ## Getting Started
 
